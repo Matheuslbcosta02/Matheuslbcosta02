@@ -1,4 +1,4 @@
-# Matheus Costa
+# Matheus Costa                                                <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBhcXJ2dmlybzk4c3l6bG5qZnR2cnM4Z2lkeGw5aHIxeHRpNGtiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.webp" width="150" height="100"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGEzc3ViMDJ1b29pcGhzbGN5em0yMjEyM2s3cThnbWtpcXdoOGlsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.webp" width="150" height="100"> 
 
 Atualmente estou cursando **Engenharia da Computação** na **_Universidade Federal da Bahia (UFBA)_**, e continuadamente sigo aprimorando minhas habilidades, tanto soft skills como hard skills. Eu sou apaixonado por tecnologia, ademais tenho foco em **Back-end** na área da programação. 
 
